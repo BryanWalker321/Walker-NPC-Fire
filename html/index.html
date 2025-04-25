@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Audio Player</title>
+</head>
+<body>
+    <audio id="dispatchAudio" src="" hidden></audio>
+    <script>
+        window.addEventListener('message', function(event) {
+            if (event.data.transactionType === 'playAudio') {
+                const audio = document.getElementById('dispatchAudio');
+                audio.src = event.data.transactionFile;
+                audio.play();
+            }
+        });
+    </script>
+</body>
+</html>
