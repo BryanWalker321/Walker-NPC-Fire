@@ -133,7 +133,7 @@ Providing clear confirmation that the resource is running correctly.
 ---
 
 ## Credits
-- Developed by **Bryan Walker** (Walker)
+- Developed by Bryan Walker (@superspiderman4697 on Discord)
 - Inspired by the need for lightweight, dynamic server immersion.
 
 ---
@@ -144,9 +144,7 @@ Walker-NPC-FireAndRescue is released under the **GPU License**. Feel free to mod
 ---
 
 ## Support
-For issues, improvements, or contributions, please open an issue or pull request on the GitHub repository.
-
----
+For questions, suggestions, or support, please open an issue on GitHub or contact @superspiderman4697 on Discord.
 
 *"Keeping your city alive... one fire at a time."* 🚒🔥
 
