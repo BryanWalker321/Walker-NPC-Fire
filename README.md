@@ -139,7 +139,7 @@ Providing clear confirmation that the resource is running correctly.
 ---
 
 ## License
-Walker-NPC-FireAndRescue is released under the **GPU License**. Feel free to modify and redistribute with credit.
+Walker-NPC-FireAndRescue is released under the **GPL License**. Feel free to modify and redistribute with credit.
 
 ---
 
